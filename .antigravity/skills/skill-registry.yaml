@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: solomon-islandsian-restitution-roadmap-and-qsf-trust-execution
-  name: Solomon Islandsian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/solomon-islandsian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_sb_001
+    name: Solomon Islands Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_002
+    name: Solomon Islands Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_003
+    name: Solomon Islands Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_004
+    name: Solomon Islands Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_005
+    name: Solomon Islands Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_006
+    name: Solomon Islands Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_007
+    name: Solomon Islands Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_008
+    name: Solomon Islands Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_009
+    name: Solomon Islands Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_010
+    name: Solomon Islands Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_011
+    name: Solomon Islands Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_012
+    name: Solomon Islands Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_013
+    name: Solomon Islands Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_014
+    name: Solomon Islands Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_015
+    name: Solomon Islands Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_016
+    name: Solomon Islands Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_017
+    name: Solomon Islands Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_018
+    name: Solomon Islands Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_019
+    name: Solomon Islands Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_020
+    name: Solomon Islands Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_021
+    name: Solomon Islands Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_022
+    name: Solomon Islands Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_023
+    name: Solomon Islands Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_024
+    name: Solomon Islands Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_025
+    name: Solomon Islands Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_026
+    name: Solomon Islands Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_027
+    name: Solomon Islands Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_028
+    name: Solomon Islands Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_029
+    name: Solomon Islands Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_030
+    name: Solomon Islands Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_031
+    name: Solomon Islands Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_032
+    name: Solomon Islands Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_033
+    name: Solomon Islands Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_034
+    name: Solomon Islands Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_035
+    name: Solomon Islands Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_036
+    name: Solomon Islands Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_037
+    name: Solomon Islands Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_038
+    name: Solomon Islands Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_039
+    name: Solomon Islands Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_040
+    name: Solomon Islands Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_041
+    name: Solomon Islands Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_042
+    name: Solomon Islands Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_043
+    name: Solomon Islands Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_044
+    name: Solomon Islands Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_045
+    name: Solomon Islands Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_046
+    name: Solomon Islands Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_047
+    name: Solomon Islands Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_048
+    name: Solomon Islands Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_049
+    name: Solomon Islands Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_050
+    name: Solomon Islands Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_051
+    name: Solomon Islands Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_052
+    name: Solomon Islands Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_053
+    name: Solomon Islands Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_054
+    name: Solomon Islands Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_055
+    name: Solomon Islands Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_056
+    name: Solomon Islands Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_057
+    name: Solomon Islands Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_058
+    name: Solomon Islands Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_059
+    name: Solomon Islands Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_060
+    name: Solomon Islands Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_061
+    name: Solomon Islands Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_062
+    name: Solomon Islands Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_063
+    name: Solomon Islands Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_064
+    name: Solomon Islands Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_065
+    name: Solomon Islands Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_066
+    name: Solomon Islands Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_067
+    name: Solomon Islands Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_068
+    name: Solomon Islands Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_069
+    name: Solomon Islands Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_070
+    name: Solomon Islands Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_071
+    name: Solomon Islands Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_072
+    name: Solomon Islands Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_073
+    name: Solomon Islands Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_074
+    name: Solomon Islands Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_075
+    name: Solomon Islands Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_076
+    name: Solomon Islands Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_077
+    name: Solomon Islands Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_078
+    name: Solomon Islands Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_079
+    name: Solomon Islands Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_080
+    name: Solomon Islands Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_081
+    name: Solomon Islands Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_082
+    name: Solomon Islands Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_083
+    name: Solomon Islands Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_084
+    name: Solomon Islands Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_085
+    name: Solomon Islands Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_086
+    name: Solomon Islands Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_087
+    name: Solomon Islands Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_088
+    name: Solomon Islands Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_089
+    name: Solomon Islands Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_090
+    name: Solomon Islands Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_091
+    name: Solomon Islands Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_092
+    name: Solomon Islands Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_093
+    name: Solomon Islands Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_094
+    name: Solomon Islands Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_095
+    name: Solomon Islands Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_096
+    name: Solomon Islands Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_097
+    name: Solomon Islands Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_098
+    name: Solomon Islands Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_099
+    name: Solomon Islands Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_100
+    name: Solomon Islands Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_101
+    name: Solomon Islands Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_102
+    name: Solomon Islands Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_103
+    name: Solomon Islands Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_104
+    name: Solomon Islands Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_105
+    name: Solomon Islands Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_106
+    name: Solomon Islands Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_107
+    name: Solomon Islands Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_108
+    name: Solomon Islands Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_109
+    name: Solomon Islands Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_110
+    name: Solomon Islands Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_111
+    name: Solomon Islands Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_112
+    name: Solomon Islands Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_113
+    name: Solomon Islands Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_114
+    name: Solomon Islands Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_115
+    name: Solomon Islands Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_116
+    name: Solomon Islands Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_117
+    name: Solomon Islands Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_118
+    name: Solomon Islands Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_119
+    name: Solomon Islands Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_120
+    name: Solomon Islands Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_121
+    name: Solomon Islands Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_122
+    name: Solomon Islands Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_123
+    name: Solomon Islands Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_124
+    name: Solomon Islands Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_125
+    name: Solomon Islands Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_126
+    name: Solomon Islands Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_127
+    name: Solomon Islands Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_128
+    name: Solomon Islands Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_129
+    name: Solomon Islands Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_130
+    name: Solomon Islands Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_131
+    name: Solomon Islands Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_132
+    name: Solomon Islands Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_133
+    name: Solomon Islands Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_134
+    name: Solomon Islands Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_135
+    name: Solomon Islands Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_136
+    name: Solomon Islands Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_137
+    name: Solomon Islands Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_138
+    name: Solomon Islands Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_139
+    name: Solomon Islands Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_140
+    name: Solomon Islands Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_141
+    name: Solomon Islands Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_142
+    name: Solomon Islands Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_143
+    name: Solomon Islands Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_144
+    name: Solomon Islands Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_145
+    name: Solomon Islands Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_146
+    name: Solomon Islands Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_147
+    name: Solomon Islands Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_148
+    name: Solomon Islands Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_149
+    name: Solomon Islands Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_150
+    name: Solomon Islands Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_151
+    name: Solomon Islands Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_152
+    name: Solomon Islands Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_153
+    name: Solomon Islands Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_154
+    name: Solomon Islands Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_155
+    name: Solomon Islands Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_156
+    name: Solomon Islands Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_157
+    name: Solomon Islands Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_158
+    name: Solomon Islands Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_159
+    name: Solomon Islands Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_160
+    name: Solomon Islands Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_161
+    name: Solomon Islands Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_162
+    name: Solomon Islands Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_163
+    name: Solomon Islands Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_164
+    name: Solomon Islands Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_165
+    name: Solomon Islands Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_166
+    name: Solomon Islands Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_167
+    name: Solomon Islands Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_168
+    name: Solomon Islands Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_169
+    name: Solomon Islands Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_170
+    name: Solomon Islands Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_171
+    name: Solomon Islands Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_172
+    name: Solomon Islands Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_173
+    name: Solomon Islands Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_174
+    name: Solomon Islands Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_175
+    name: Solomon Islands Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_176
+    name: Solomon Islands Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_177
+    name: Solomon Islands Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_178
+    name: Solomon Islands Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_179
+    name: Solomon Islands Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_180
+    name: Solomon Islands Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_181
+    name: Solomon Islands Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_182
+    name: Solomon Islands Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_183
+    name: Solomon Islands Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_184
+    name: Solomon Islands Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_185
+    name: Solomon Islands Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_186
+    name: Solomon Islands Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_187
+    name: Solomon Islands Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_188
+    name: Solomon Islands Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_189
+    name: Solomon Islands Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_190
+    name: Solomon Islands Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_191
+    name: Solomon Islands Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_192
+    name: Solomon Islands Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_193
+    name: Solomon Islands Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_194
+    name: Solomon Islands Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_195
+    name: Solomon Islands Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_196
+    name: Solomon Islands Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_197
+    name: Solomon Islands Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_198
+    name: Solomon Islands Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_199
+    name: Solomon Islands Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_200
+    name: Solomon Islands Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_201
+    name: Solomon Islands Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_202
+    name: Solomon Islands Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_203
+    name: Solomon Islands Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_204
+    name: Solomon Islands Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_205
+    name: Solomon Islands Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_206
+    name: Solomon Islands Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_207
+    name: Solomon Islands Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_208
+    name: Solomon Islands Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_209
+    name: Solomon Islands Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_210
+    name: Solomon Islands Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_211
+    name: Solomon Islands Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_212
+    name: Solomon Islands Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_213
+    name: Solomon Islands Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_214
+    name: Solomon Islands Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_215
+    name: Solomon Islands Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_216
+    name: Solomon Islands Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_217
+    name: Solomon Islands Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_218
+    name: Solomon Islands Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_219
+    name: Solomon Islands Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_220
+    name: Solomon Islands Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_221
+    name: Solomon Islands Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_222
+    name: Solomon Islands Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_223
+    name: Solomon Islands Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_224
+    name: Solomon Islands Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_225
+    name: Solomon Islands Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_226
+    name: Solomon Islands Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_227
+    name: Solomon Islands Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_228
+    name: Solomon Islands Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_229
+    name: Solomon Islands Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_230
+    name: Solomon Islands Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_231
+    name: Solomon Islands Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_232
+    name: Solomon Islands Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_233
+    name: Solomon Islands Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_234
+    name: Solomon Islands Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_235
+    name: Solomon Islands Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_236
+    name: Solomon Islands Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_237
+    name: Solomon Islands Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_238
+    name: Solomon Islands Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_239
+    name: Solomon Islands Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_240
+    name: Solomon Islands Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_241
+    name: Solomon Islands Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_242
+    name: Solomon Islands Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_243
+    name: Solomon Islands Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_244
+    name: Solomon Islands Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_245
+    name: Solomon Islands Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_246
+    name: Solomon Islands Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_247
+    name: Solomon Islands Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_248
+    name: Solomon Islands Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_249
+    name: Solomon Islands Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_250
+    name: Solomon Islands Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_251
+    name: Solomon Islands Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sb_252
+    name: Solomon Islands Skill 252
+    status: ACTIVE_SCAFFOLD
