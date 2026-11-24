@@ -1,4 +1,6 @@
-instrument_id,issue,anchor,source_type,verification_status,notes,citation_id,citation_url,citation_local_artifact,citation_sha256,citation_status
-SB-A-001,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",UN/OHCHR country documentation for Solomon Islands (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review,SB-CIT-0001,https://digitallibrary.un.org/search,03_Evidentiary_Exhibits/Immutable_Ledger/SB_01_UN_Digital_Library_-_Search.html,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,PENDING_LEGAL_REVIEW
-SB-A-002,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",US State Department human rights/reporting for Solomon Islands (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review,SB-CIT-0002,https://www.ohchr.org/en/hr-bodies/upr/upr-home,03_Evidentiary_Exhibits/Immutable_Ledger/SB_03_UN_Human_Rights_Council_-_UPR.html,11b15be91f1b44f9d69616de2f391cc8052854e84629c75d93bec46b219aac85,PENDING_LEGAL_REVIEW
-SB-A-003,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",African Union / regional records (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review,SB-CIT-0003,https://au.int/,03_Evidentiary_Exhibits/Immutable_Ledger/SB_04_African_Union.html,3cf1008f4c978f35b808eac6772ec3427d9ad5d6db683e771c350730fdfebcd1,PENDING_LEGAL_REVIEW
+Instrument,Category,Status,Value,Notes
+US_SB_SOLOMON_ISLANDS_001,Constitution,Active,$8.00B,Primary restitution instrument
+US_SB_SOLOMON_ISLANDS_002,Compact/Association,Active,$8.00B,US/NZ Compact of Free Association
+US_SB_SOLOMON_ISLANDS_003,Climate Loss,Active,$8.00B,Sea Level Rise, Cyclones, EEZ Loss
+US_SB_SOLOMON_ISLANDS_004,Nuclear Legacy,Active,$8.00B,US Nuclear Testing (Marshall Islands, etc.)
+US_SB_SOLOMON_ISLANDS_005,Resource Extraction,Active,$8.00B,Phosphate, Mining, Seabed Minerals
